@@ -1,0 +1,3 @@
+Implement BallWallCollisionCalculator.check
+Add PhysicsObject data-class
+Add example (using CircleRenderer)
